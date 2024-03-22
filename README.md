@@ -13,7 +13,7 @@ This Task Manager is a simple web application that allows users to manage their 
 
 <h2>Project Screenshots:</h2>
 
-<img src="![Screenshot 2024-03-17 232116](https://github.com/UmeshSingh2000/Task-Manager/assets/164480488/7b19ea2f-1b62-4abc-aa9c-112c9a05189a)" alt="project-screenshot" width="400" height="400/">
+![Screenshot 2024-03-17 232116](https://github.com/UmeshSingh2000/Task-Manager/assets/164480488/7b19ea2f-1b62-4abc-aa9c-112c9a05189a)
 
   
   
