@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://umesh2000singh.github.io/Task-Manager/](https://umesh2000singh.github.io/Task-Manager/)
+[https://umesh2000singh.github.io/Task-Manager/](https://umeshsingh2000.github.io/To-Do/)
 
 <h2>Project Screenshots:</h2>
 
